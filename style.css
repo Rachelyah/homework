@@ -1,0 +1,152 @@
+body {
+    background: url(bg.png);
+    width: auto;
+    margin: 50px;
+    font-family: Arial, Helvetica, '微軟正黑體', sans-serif;
+}
+
+.box {
+    background: white;
+    width: 1200px;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+.list-1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.list-2 {
+    display: flex;
+    justify-content: space-around;
+}
+.menu:hover {
+    background: rgb(219, 213, 196);
+    width: 330px;
+    height: auto;
+    margin: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 5px rgb(108, 108, 108);
+}
+.menu {
+    background: rgb(219, 213, 196);
+    width: 330px;
+    height: auto;
+    margin: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.p1, .p2 {
+    background: url(p1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 10px rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 30px;
+    width: 280px;
+    height: 250px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.p2 {
+    background: url(p2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 10px rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 30px;
+    width: 280px;
+    height: 250px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.p3 {
+    background: url(p3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 10px rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 30px;
+    width: 280px;
+    height: 250px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.p4 {
+    background: url(p4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 10px rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 30px;
+    width: 280px;
+    height: 250px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.p5 {
+    background: url(p5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 10px rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 30px;
+    width: 280px;
+    height: 250px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.p6{
+background: url(p6.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+border: solid 10px rgb(255, 255, 255);
+border-style: solid;
+border-radius: 30px;
+width: 280px;
+height: 250px;
+margin: 5px;
+box-sizing: border-box;
+}
+li {
+    font-size: 20px;
+    list-style-image: url(list\ 1.png);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(187, 24, 24);
+    border-color: rgba(156, 154, 154, 0.994);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 50px;
+    line-height: 60px;
+}
+
+h4 {
+    font-size: 20px;
+    text-indent: 20px;
+    list-style-type: square;
+}
+
+p {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+h5 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+
+}
+
+.product {
+    font-weight: 400;
+    font-size: 18px;
+}
